@@ -35,6 +35,6 @@
    
 7.Create a file name app.py inside the project folder
    
-9.Execute the file named app.py
+8.Execute the file named app.py
     
-10.Go to the browser and search 'localhost:5000/api/modifyRecepie' 
+9.Go to the browser and search 'localhost:5000/api/modifyRecepie' 
